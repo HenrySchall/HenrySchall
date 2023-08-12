@@ -9,10 +9,10 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@henrique.schall)
 
 ### Skills:
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-
-
+<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>   
+<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="center" alt="" height="28" width="30" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/Tableau.svg"/> 
+<img align="center" alt="" height="28" width="30" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/> 
 
 <!-- Linguagens para aperfeiçoar
 <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
