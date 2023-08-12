@@ -11,7 +11,7 @@
 ### Skills:
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>   
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<img align="center" alt="" height="28" width="22" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/> 
+<img align="center" alt="" height="28" width="35" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/> 
 <img align="center" alt="" height="28" width="35" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/Tableau.svg"/> 
 
 <!-- Linguagens para aperfeiçoar
