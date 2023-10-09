@@ -1,7 +1,7 @@
 ### Hello there 🤙 
 <div>
-  <img height="245em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark") />
-  <!--<img height="245em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&langs_count=16&theme=dark") />
+  <!--<img height="245em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark") />
+  <img height="245em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&langs_count=16&theme=dark") />
   
 ### 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@henryschall?utm_source=user-menu)
