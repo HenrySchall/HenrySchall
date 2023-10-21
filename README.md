@@ -7,8 +7,9 @@
 ### Skills:
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>   
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<img align="center" alt="" height="28" width="35" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/> 
-<img align="center" alt="" height="32" width="27" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/Tableau.svg"/>
+<img align="center" alt="" height="31" width="35" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Arduino.svg"/>
+<img align="center" alt="" height="35" width="28" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/Tableau.svg"/>
+<img align="center" alt="" height="29" width="30" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/> 
   
 <!--<img height="245em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark") />
 <img height="245em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&langs_count=16&theme=dark") />
