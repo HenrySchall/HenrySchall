@@ -1,6 +1,6 @@
 ### Hello there 🤙 
 
-<img width= "500em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark"/> <img width= "380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/> 
+<img width= "450em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark"/> <img width= "342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/> 
 <div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/henrique-s-29914724b/)
