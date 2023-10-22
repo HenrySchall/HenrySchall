@@ -20,9 +20,10 @@
           
 
 <!--
+<img align="center" alt="" height="30" width="28" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Qgis.svg"/> 
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="center" alt="" height="30" width="28" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Qgis.svg"/>  
-<img align="center" alt="" height="30" width="30" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Sas.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Amazon.svg"/>
+<img align="center" alt="" height="30" width="30" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Sas.svg"/>
+
 
