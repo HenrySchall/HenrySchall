@@ -16,7 +16,7 @@
 <img align="center" alt="" height="32" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Oracle.svg"/>
 <img align="center" alt="" height="30" width="30" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Tableau.svg"/> 
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<img align="center" alt="" height="35" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
           
 
 <!--
