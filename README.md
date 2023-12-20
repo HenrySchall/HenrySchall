@@ -1,6 +1,6 @@
 ### Hello there 🤙 
 
-<img width= "450em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark"/> <img width= "342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark"/> 
+<img width= "342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark"/> 
 <div>
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.schall@outlook.com)
@@ -21,10 +21,10 @@
 <img align="center" alt="" height="35" width="35" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Oracle.svg"/>
 <img align="center" alt="" height="30" width="28" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Qgis.svg"/> 
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/henrique-s-29914724b/)
 <img align="center" alt="" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Amazon.svg"/>
 <img align="center" alt="" height="30" width="30" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Sas.svg"/>
 
+<img width= "450em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark"/> 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/henrique-s-29914724b/)
 
