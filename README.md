@@ -1,11 +1,10 @@
 ### Hello there 🤙 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.schall@outlook.com)
+[![Substack](https://img.shields.io/badge/substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@henryschall)
 
 <img width= "342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark"/> 
 <div>
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.schall@outlook.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/henrique_schall)
-[![Substack](https://img.shields.io/badge/substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@henryschall)
 
 ### Skills:
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>    
