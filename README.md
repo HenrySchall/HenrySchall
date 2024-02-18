@@ -3,7 +3,7 @@
 [![Substack](https://img.shields.io/badge/substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@henryschall)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/henrique-s-29914724b/)
 
-<img width= "342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark"/> 
+<img width= "342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschal&layout=compact&theme=dark"/> 
 <div>
 
 ### Skills:
