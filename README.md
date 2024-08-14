@@ -1,9 +1,9 @@
 ### Hello there 🤙 
 
+<p><a href="https://www.buymeacoffee.com/levicristiano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="levicristiano" /></a></p><br><br>
+
 <img width= "342em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark"/> 
 <div>
-
-<p><a href="https://www.buymeacoffee.com/levicristiano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="levicristiano" /></a></p><br><br>
 
 [![Substack](https://img.shields.io/badge/substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@henryschall)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)]()
