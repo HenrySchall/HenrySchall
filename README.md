@@ -9,7 +9,8 @@
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-                    
+<img align="center" alt="" height="35" width="35" src="Icones/Stata.svg"/>
+                             
 
 <!--
 <img width= "450em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark"/> 
@@ -25,5 +26,6 @@
 <img align="center" alt="" height="30" width="27" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/>
 <img align="center" alt="" height="30" width="30" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Tableau.svg"/>   
 
+<img align="center" alt="" height="30" width="27" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Stata.svg"/>
          
           
