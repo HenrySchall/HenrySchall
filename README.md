@@ -10,7 +10,7 @@
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="center" alt="" height="35" width="35" src="Icones/Stata.svg"/>
-                             
+                             [
 
 <!--
 <img width= "450em" src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark"/> 
