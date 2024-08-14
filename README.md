@@ -6,7 +6,6 @@
 [![Substack](https://img.shields.io/badge/substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@henryschall)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)]()
 [![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.schall@outlook.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
          
 <p><a href="https://www.buymeacoffee.com/levicristiano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="henryschall" /></a></p><br><br>
 
