@@ -32,15 +32,6 @@
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>     
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="center" alt="" height="30" width="27" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/>
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
-<img align="center" alt="" height="35" width="35" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-<img align="center" alt="" height="35" width="35" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"/>
-          
-          
-                   
-
-          
-         
+<img align="center" alt="" height="35" width="35" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>     
           
