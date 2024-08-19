@@ -14,15 +14,13 @@
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="center" alt="" height="34" width="33" src="Icones/Stata.svg"/>
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>    
 <img align="center" alt="" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>     
-          
+<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>    
+<img align="center" alt="" height="34" width="33" src="Icones/Stata.svg"/>
+
 <!--
 <img align="center" alt="" height="30" width="30" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Tableau.svg"/>  
 <img align="center" alt="" height="30" width="27" src="https://raw.githubusercontent.com/HenrySchall/HenrySchall/9849d02daf60732b5b09237b195007dd57e5521f/Icones/PowerBI.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Oracle.svg"/>
 <img align="center" alt="" height="30" width="28" src="https://github.com/HenrySchall/HenrySchall/blob/main/Icones/Qgis.svg"/> 
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="center" alt="" height="35" width="35" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"/>     
-<img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
