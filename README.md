@@ -4,7 +4,7 @@
 [![Linkelnd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-<p><a href="https://www.buymeacoffee.com/levicristiano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="levicristiano" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/levicristiano"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="levicristiano" /></a></p><br><br>
 
 ### Skills 
 <div style="display: inline_block">
