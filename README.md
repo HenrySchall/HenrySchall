@@ -15,7 +15,6 @@
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="center" alt="" height="34" width="33" src="Icones/Stata.svg"/>
 <img align="center" alt="" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="center" alt="" height="33" width="33" src="Icones/Kotlin.svg"/>
 <img align="center" alt="" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>      
 
 <!--
