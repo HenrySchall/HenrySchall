@@ -21,7 +21,6 @@
 <img align="center" height="32" width="32" src="Icones/Kotlin.svg"/>
 </div>
 
-
 <!-- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
