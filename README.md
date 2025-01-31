@@ -2,7 +2,7 @@
 
 [![Linkelnd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logoColor=white)](https://medium.com/@henrique.schall)
-[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logoColor=white)](mailto:henrique.schall@outlok.com)
+[![Email](https://img.shields.io/badge/EMail-4A154B?style=for-the-badge&logo&logoColor=white)](mailto:henrique.schall@outlok.com)
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" /></a></p><br><br>
 
