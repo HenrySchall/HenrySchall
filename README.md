@@ -1,6 +1,6 @@
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark"/>
 
-[![Linkelnd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/henrique-g%C3%BCnter-schall-29914724b/)
+[![Linkelnd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logoColor=white)](https://medium.com/@henrique.schall)
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logoColor=white)](mailto:henrique.schall@outlok.com)
 
