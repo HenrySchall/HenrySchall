@@ -16,6 +16,11 @@
 <img align="center" height="32" width="32" src="Icones/Fabric.svg"/>
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="center" height="48" width="48" src="Icones/Arduino.svg"/>  
-<img align="center" height="32" width="32" src="Icones/Kotlin.svg"/> 
+
+
+
+
+
+<!--img align="center" height="32" width="32" src="Icones/Kotlin.svg"/> 
 </div>
           
