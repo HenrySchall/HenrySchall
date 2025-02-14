@@ -1,7 +1,7 @@
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark"/>
 
-[![Linkelnd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logoColor=white)](https://medium.com/@henrique.schall)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
+[![Substack](https://img.shields.io/badge/Substack-FF5722?style=for-the-badge&logo&logoColor=white)](https://substack.com/inbox/post/157123540)
 [![Email](https://img.shields.io/badge/EMail-4A154B?style=for-the-badge&logo&logoColor=white)](mailto:henrique.schall@outlok.com)
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" /></a></p><br><br>
