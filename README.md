@@ -6,15 +6,15 @@ Hi, my name is Henrique Schall, I'm an economist, graduated from the Brazilian I
 
 Feel free to ask me questions, advices or teach me something new!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
-[![Substack](https://img.shields.io/badge/Substack-F47521?style=for-the-badge&logo&logoColor=white)](https://substack.com/inbox/post/157123540)
-[![Email](https://img.shields.io/badge/Email-4A154B?style=for-the-badge&logo&logoColor=white)](mailto:henrique.schall@outlok.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
+[![Substack](https://img.shields.io/badge/Substack-616161?style=for-the-badge&logo&logoColor=white)](https://substack.com/inbox/post/157123540)
+[![Email](https://img.shields.io/badge/Email-616161?style=for-the-badge&logo&logoColor=white)](mailto:henrique.schall@outlok.com)
 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" /></a></p><br><br>
 
 ---
 
-### 🤖 Skills 
+### 🤖 Skills & Softwares
 
 <img 
     align="left" 
@@ -26,35 +26,35 @@ Feel free to ask me questions, advices or teach me something new!
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
+    alt="r" 
+    title="r"
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
+    alt="postgresql" 
+    title="postgresql"
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="Icones/Stata.svg" 
 />
 <img 
     align="left" 
@@ -138,10 +138,12 @@ Feel free to ask me questions, advices or teach me something new!
 
 ### Skills 
 <div style="display: inline_block">
-<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  
-<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/> 
-<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="center" height="35" width="35" src="Icones/Stata.svg"/>
+
+    
+    <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>  
+    <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/> 
+    <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    <img align="center" height="35" width="35" src="Icones/Stata.svg"/>
 <img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
 <img align="center" height="32" width="32" src="Icones/Fabric.svg"/>
