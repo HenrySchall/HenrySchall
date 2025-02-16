@@ -8,6 +8,7 @@ Feel free to ask me questions, advices or teach me something new!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
 [![Substack](https://img.shields.io/badge/Substack-616161?style=for-the-badge&logo&logoColor=white)](https://henryschall.substack.com/)
+[![Medium](https://img.shields.io/badge/Medium-616161?style=for-the-badge&logo&logoColor=white)](https://medium.com/@henrique.schall) 
 [![Email](https://img.shields.io/badge/Email-616161?style=for-the-badge&logo&logoColor=white)](mailto:henrique.schall@outlok.com) 
 <p><a href="https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" /></a></p><br><br>
 
