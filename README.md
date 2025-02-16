@@ -14,7 +14,7 @@ Feel free to ask me questions, advices or teach me something new!
 
 ---
 
-### Skills & Statistics
+### Skills and Statistics
 <img 
     align="left" 
     alt="Python"
@@ -99,7 +99,7 @@ Feel free to ask me questions, advices or teach me something new!
     alt="GitHub Stats" 
     height="175" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark&include_all_commits=true&include_all_stars=true&custom_title=Statistics" 
+    src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark&include_all_commits=true&include_all_stars=true&custom_title=Statistics_HenrySchall_Github" 
   />
 
 <img 
