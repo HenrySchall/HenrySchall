@@ -25,8 +25,8 @@ Feel free to ask me questions, advices or teach me something new!
 />
 <img 
     align="left" 
-    alt="r" 
-    title="r"
+    alt="R" 
+    title="R"
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
@@ -41,40 +41,40 @@ Feel free to ask me questions, advices or teach me something new!
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="C++"
+    title="C++" 
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Stata"
+    title="Stata" 
     width="35px" 
     style="padding-right: 10px;" 
     src="Icones/Stata.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Google_Cloud" 
+    title="Google_Cloud"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Fabric"
+    title="Fabric" 
     width="33px" 
     style="padding-right: 10px;" 
     src="Icones/Fabric.svg" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Amazon" 
+    title="Amazon"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
