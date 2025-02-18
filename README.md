@@ -79,7 +79,7 @@ Feel free to ask me questions, advices or teach me something new!
     title="Arduino"
     width="36px" 
     style="padding-right: 10px;" 
-    src="Icones/Arduino1.svg"/>
+    src="Icones/Arduino.svg"/>
 
 <img 
     align="left" 
