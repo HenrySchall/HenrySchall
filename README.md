@@ -15,85 +15,79 @@ Feel free to ask me questions, advices or teach me something new!
 ---
 
 ### Skills and Statistics
+
 <img 
     align="left" 
     alt="Python"
     title="Python" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img 
     align="left" 
     alt="R" 
     title="R"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 <img 
     align="left" 
     alt="postgresql" 
     title="postgresql"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img 
     align="left" 
     alt="C++"
     title="C++" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img 
     align="left" 
     alt="Stata"
     title="Stata" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="Icones/Stata.svg" 
-/>
+    src="Icones/Stata.svg"/>
 <img 
     align="left" 
     alt="Google_Cloud" 
     title="Google_Cloud"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
 <img 
     align="left" 
     alt="Fabric"
     title="Fabric" 
     width="33px" 
     style="padding-right: 10px;" 
-    src="Icones/Fabric.svg" 
-/>
+    src="Icones/Fabric.svg"/>
 <img 
     align="left" 
     alt="Amazon" 
     title="Amazon"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="Icones/Arduino.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Git" 
+    title="Git"
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="Icones/Arduino.svg"/>
 
 <br/>
 <br/>
