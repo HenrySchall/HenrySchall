@@ -87,6 +87,13 @@ Feel free to ask me questions, advices or teach me something new!
     style="padding-right: 10px;" 
     src="Icones/Arduino.svg" 
 />
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br/>
 <br/>
