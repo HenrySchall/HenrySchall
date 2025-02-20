@@ -53,8 +53,8 @@ Feel free to ask me questions, advices or teach me something new!
     src="Icones/Stata.svg"/>
 <img 
     align="left" 
-    alt="Google_Cloud" 
-    title="Google_Cloud"
+    alt="GoogleCloud" 
+    title="GoogleCloud"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
@@ -81,6 +81,15 @@ Feel free to ask me questions, advices or teach me something new!
     style="padding-right: 10px;" 
     src="Icones/Arduino.svg"/>
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+          
 <img 
     align="left" 
     alt="Git" 
