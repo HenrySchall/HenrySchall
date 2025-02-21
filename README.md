@@ -2,7 +2,11 @@
 
 **`Data Scientist and Economist`**
 
-Hi, my name is Henrique Schall, I have a bachelor's degree in economic sciences from the Brazilian Institute of Capital Markets (IBMEC). I'm addicted to understanding how the world works and I think this is possible through data. Up to now, I have 6 years of experience analyzing and interpreting data, to obtain relevant insights about any subject. I believe there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
+I'm addicted to understanding how the world works and I think this is possible through data. Up to now, I have 7 years of experience analyzing and interpreting data, to obtain relevant insights about any subject.
+
+I have a bachelor's degree in economic sciences from the Brazilian Institute of Capital Markets (IBMEC),Where I specialized in the analysis and interpretation of economic data
+
+I believe there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
 
 Feel free to ask me questions, advices or teach me something new!
 
