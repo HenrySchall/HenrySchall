@@ -2,9 +2,7 @@
 
 **`Data Scientist and Economist`**
 
-I'm addicted to understanding how the world works and I think this is possible through data. Up to now, I have 7 years of experience analyzing and interpreting data, to obtain relevant insights about any subject.I believe there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
-
-Feel free to ask me questions, advices or teach me something new!
+I'm addicted to understanding how the world works, from my life experiences I believe this is possible through data. Up to now, I have 7 years of experience analyzing and interpreting data, to obtain relevant insights about any subject. My mantra is that there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
 [![Substack](https://img.shields.io/badge/Substack-616161?style=for-the-badge&logo&logoColor=white)](https://henryschall.substack.com/)
