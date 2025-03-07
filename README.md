@@ -77,15 +77,7 @@ I'm addicted to understanding how the world works, from my life experiences I be
     width="36px" 
     style="padding-right: 10px;" 
     src="Icones/Arduino.svg"/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="38px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-         
+       
 <img 
     align="left" 
     alt="JavaScript" 
@@ -96,8 +88,8 @@ I'm addicted to understanding how the world works, from my life experiences I be
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Tableau" 
+    title="Tableau"
     width="35px" 
     style="padding-right: 5px;" 
     src="Icones/Tableau.svg"/>
