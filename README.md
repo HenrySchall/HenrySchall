@@ -116,21 +116,16 @@ I'm addicted to understanding how the world works, from my life experiences I be
 ###
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="175" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=henryschall&show_icons=true&theme=dark&include_all_commits=true&include_all_stars=true" 
+ 
   />
-
-<img 
+    <img 
       align="left" 
       alt="GitHub Stats" 
       height="175" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark" 
   />
+
 
 </p>
 
