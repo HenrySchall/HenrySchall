@@ -1,13 +1,11 @@
 # Henrique Schall
 
-**`Data Scientist and Economist`**
+**`Data Scientist and Economist`** 
+
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" /></a></p><br><br>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" /></a></p><br><br>
 
 I'm addicted to understanding how the world works, from my life experiences I believe this is possible through data. Up to now, I have 7 years of experience analyzing and interpreting data, to obtain relevant insights about any subject. My mantra is that there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
-[![Substack](https://img.shields.io/badge/Substack-616161?style=for-the-badge&logo&logoColor=white)](https://henryschall.substack.com/)
-[![Email](https://img.shields.io/badge/Email-616161?style=for-the-badge&logo&logoColor=white)](mailto:henrique.schall@outlok.com) 
-<p><a href="https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" /></a></p><br><br>
 
 ---
 
@@ -122,7 +120,11 @@ I'm addicted to understanding how the world works, from my life experiences I be
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=henryschall&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true"      
    />
-        
+
+
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-616161?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-schall-29914724b/)
+[![Substack](https://img.shields.io/badge/Substack-616161?style=for-the-badge&logo&logoColor=white)](https://henryschall.substack.com/)
+[![Email](https://img.shields.io/badge/Email-616161?style=for-the-badge&logo&logoColor=white)](mailto:henrique.schall@outlok.com) 
 
 
 
