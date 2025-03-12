@@ -2,7 +2,8 @@
 
 **`Data Scientist and Economist`** 
 
-I'm addicted to understanding how the world works, from my life experiences I believe this is possible through data. Up to now, I have 7 years of experience analyzing and interpreting data, to obtain relevant insights about any subject. My mantra is that there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
+I like to understand how the world works, beacause of that, in my opinion, analyzing data is the best way to achieve this. Up to now, I have more than 5 years of experience analyzing and interpreting data, to obtain relevant insights about any subject. My personal mantra is that there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
+
 
 [![Tip](https://img.shields.io/badge/buy_me_a_coffe-616161?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW)
 [![Substack](https://img.shields.io/badge/Substack-616161?style=for-the-badge&logo=Substack&logoColor=white)](https://henryschall.substack.com/)
