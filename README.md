@@ -92,14 +92,6 @@ I like to understand how the world works, because of that, in my opinion, analyz
     width="35px" 
     style="padding-right: 5px;" 
     src="Icones/Tableau.svg"/>
-          
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="35px" 
-    style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br/>
 <br/>
