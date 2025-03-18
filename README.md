@@ -1,4 +1,4 @@
-# Henrique Schall
+## Henrique Schall
 
 **`Data Scientist and Economist`**
 
