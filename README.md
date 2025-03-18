@@ -92,9 +92,9 @@
     align="left" 
     alt="Tableau" 
     title="Tableau"
-    width="50px" 
+    width="35px" 
     style="padding-right: 5px;" 
-    src="Icones/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg"/>
+    src="Icones/Kotlin.svg"/>
 
 <br/>
 <br/>
