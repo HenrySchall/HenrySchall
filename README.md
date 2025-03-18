@@ -2,9 +2,9 @@
 
 **`Data Scientist and Economist`**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-696969?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/henriqueschall/)
 [![Tip](https://img.shields.io/badge/buy_me_a_coffe-696969?style=for-the-badge&labelColor=black)](https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW)
 [![Substack](https://img.shields.io/badge/Substack-696969?style=for-the-badge&labelColor=black)](https://henryschall.substack.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-696969?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/henriqueschall/)
 
 ### Skills and Statistics
 
