@@ -88,6 +88,14 @@
     style="padding-right: 5px;" 
     src="Icones/Tableau.svg"/>
 
+<img 
+    align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="50px" 
+    style="padding-right: 5px;" 
+    src="Icones/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg"/>
+
 <br/>
 <br/>
 
