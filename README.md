@@ -1,15 +1,13 @@
 # Henrique Schall
 
-**`Data Scientist and Economist`** 
+**`Data Scientist and Economist`**
 
-I like to understand how the world works, because of that, in my opinion, analyzing data is the best way to achieve this. Up to now, I have more than 5 years of experience analyzing and interpreting data to obtain relevant insights about any subject. My personal mantra is that there is nothing noble in being superior to your similar, true nobility is being superior to your former self. That's why I'm always looking to learn new things and reach new heights. 
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](henrique.schall@outlook.com)
+[![Tip](https://img.shields.io/badge/buy_me_a_coffe-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW)
+[![Substack](https://img.shields.io/badge/Substack-FC8019?style=for-the-badge&logo=Substack&logoColor=black)](https://henryschall.substack.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/henriqueschall/)
 
-
-[![Tip](https://img.shields.io/badge/buy_me_a_coffe-616161?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW)
-[![Substack](https://img.shields.io/badge/Substack-616161?style=for-the-badge&logo=Substack&logoColor=white)](https://henryschall.substack.com/)
-
----
-
+16161?
 ### Skills and Statistics
 
 <img 
