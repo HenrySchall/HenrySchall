@@ -98,14 +98,14 @@
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="175" 
+      height="180" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryschall&layout=compact&theme=dark&hide_border=true"
   />
    <img 
       align="left" 
       alt="GitHub Stats" 
-      height="175" 
+      height="180" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=henryschall&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true"      
    />
