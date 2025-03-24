@@ -2,8 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-696969?style=for-the-badge&logo=Portfolio&logoColor=black&labelColor=black)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-696969?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/henriqueschall/)
-[![Substack](https://img.shields.io/badge/Substack_Portuguese-696969?style=for-the-badge&labelColor=black)](https://henryschall.substack.com/)
-[![Substack](https://img.shields.io/badge/Substack_English-696969?style=for-the-badge&labelColor=black)](https://henriqueschall.substack.com/)
+[![Substack](https://img.shields.io/badge/Substack-696969?style=for-the-badge&labelColor=black)](https://linktr.ee/henryschall)
 [![Tip](https://img.shields.io/badge/buy_me_a_coffe-696969?style=for-the-badge&labelColor=black)](https://www.paypal.com/donate/?hosted_button_id=CGMEDRS49K4QW)
 
 ### Skills and Statistics
