@@ -87,7 +87,14 @@
     width="35px" 
     style="padding-right: 5px;" 
     src="Icones/Tableau.svg"/>
-
+<img 
+    align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="36px"  
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
+          
 <img 
     align="left" 
     alt="Tableau" 
