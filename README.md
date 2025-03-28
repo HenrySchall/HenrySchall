@@ -77,7 +77,7 @@
     title="Arduino"
     width="36px" 
     style="padding-right: 10px;" 
-    src="Icones/Arduino.svg"/>
+    src="Icones/Fabric.svg"/>
     
 <img 
     align="left" 
