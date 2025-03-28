@@ -65,27 +65,19 @@
 
 <img 
     align="left" 
-    alt="Autodesk" 
-    title="Autodesk"
+    alt="Databricks" 
+    title="Databricks"
     width="36px" 
     style="padding-right: 10px;" 
     src="Icones/Databricks.svg"/>
 
 <img 
     align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="36px" 
+    alt="Fabric" 
+    title="Fabric"
+    width="34px" 
     style="padding-right: 10px;" 
     src="Icones/Fabric.svg"/>
-    
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="36px"  
-    style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
 
 <img 
     align="left" 
@@ -94,12 +86,20 @@
     width="35px" 
     style="padding-right: 5px;" 
     src="Icones/Tableau.svg"/>
+
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="36px"  
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
           
 <img 
     align="left" 
     alt="Kotlin" 
     title="Kotlin"
-    width="35px" 
+    width="34px" 
     style="padding-right: 5px;" 
     src="Icones/Kotlin.svg"/>
 
