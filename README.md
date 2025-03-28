@@ -14,6 +14,7 @@
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    
 <img 
     align="left" 
     alt="R" 
@@ -21,6 +22,7 @@
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+    
 <img 
     align="left" 
     alt="postgresql" 
@@ -28,6 +30,7 @@
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    
 <img 
     align="left" 
     alt="C++"
@@ -35,6 +38,7 @@
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+    
 <img 
     align="left" 
     alt="Stata"
@@ -42,6 +46,7 @@
     width="35px" 
     style="padding-right: 10px;" 
     src="Icones/Stata.svg"/>
+    
 <img 
     align="left" 
     alt="GoogleCloud" 
@@ -49,6 +54,7 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+    
 <img 
     align="left" 
     alt="Fabric"
@@ -56,6 +62,7 @@
     width="33px" 
     style="padding-right: 10px;" 
     src="Icones/Fabric.svg"/>
+    
 <img 
     align="left" 
     alt="Amazon" 
@@ -74,11 +81,19 @@
        
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Autodesk" 
+    title="Autodesk"
     width="38px" 
     style="padding-right: 10px;" 
     src="Icones/Autodesk.svg"/>
+    
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="36px"  
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
 
 <img 
     align="left" 
@@ -87,18 +102,11 @@
     width="35px" 
     style="padding-right: 5px;" 
     src="Icones/Tableau.svg"/>
-<img 
-    align="left" 
-    alt="Tableau" 
-    title="Tableau"
-    width="36px"  
-    style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
           
 <img 
     align="left" 
-    alt="Tableau" 
-    title="Tableau"
+    alt="Kotlin" 
+    title="Kotlin"
     width="35px" 
     style="padding-right: 5px;" 
     src="Icones/Kotlin.svg"/>
