@@ -88,6 +88,14 @@
     style="padding-right: 5px;" 
     src="Icones/Tableau.svg"/>
 
+<img 
+    align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="35px" 
+    style="padding-right: 5px;" 
+    src="Icones/Kotlin.svg"/>
+
 <br/>
 <br/>
 
