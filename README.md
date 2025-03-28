@@ -57,14 +57,6 @@
     
 <img 
     align="left" 
-    alt="Fabric"
-    title="Fabric" 
-    width="33px" 
-    style="padding-right: 10px;" 
-    src="Icones/Fabric.svg"/>
-    
-<img 
-    align="left" 
     alt="Amazon" 
     title="Amazon"
     width="40px" 
@@ -73,19 +65,19 @@
 
 <img 
     align="left" 
+    alt="Autodesk" 
+    title="Autodesk"
+    width="36px" 
+    style="padding-right: 10px;" 
+    src="Icones/Databricks.svg"/>
+
+<img 
+    align="left" 
     alt="Arduino" 
     title="Arduino"
     width="36px" 
     style="padding-right: 10px;" 
     src="Icones/Arduino.svg"/>
-       
-<img 
-    align="left" 
-    alt="Autodesk" 
-    title="Autodesk"
-    width="38px" 
-    style="padding-right: 10px;" 
-    src="Icones/Autodesk.svg"/>
     
 <img 
     align="left" 
