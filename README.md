@@ -81,9 +81,17 @@
 
 <img 
     align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="33px" 
+    style="padding-right: 5px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+    
+<img 
+    align="left" 
     alt="Swift" 
     title="Swift"
-    width="36px"  
+    width="35px"  
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
           
@@ -91,7 +99,7 @@
     align="left" 
     alt="Kotlin" 
     title="Kotlin"
-    width="34px" 
+    width="33px" 
     style="padding-right: 5px;" 
     src="Icones/Kotlin.svg"/>
 
