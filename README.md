@@ -73,14 +73,6 @@
 
 <img 
     align="left" 
-    alt="Fabric" 
-    title="Fabric"
-    width="34px" 
-    style="padding-right: 10px;" 
-    src="Icones/Fabric.svg"/>
-
-<img 
-    align="left" 
     alt="Tableau" 
     title="Tableau"
     width="35px" 
