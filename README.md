@@ -54,14 +54,6 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
-    
-<img 
-    align="left" 
-    alt="Amazon" 
-    title="Amazon"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 
 <img 
     align="left" 
@@ -125,4 +117,11 @@
    />
 
 
+    <img 
+    align="left" 
+    alt="Amazon" 
+    title="Amazon"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
           
