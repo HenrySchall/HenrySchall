@@ -115,13 +115,4 @@
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=henryschall&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true"      
    />
-
-
-    <img 
-    align="left" 
-    alt="Amazon" 
-    title="Amazon"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
           
