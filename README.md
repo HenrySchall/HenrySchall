@@ -59,6 +59,14 @@
     align="left" 
     alt="Databricks" 
     title="Databricks"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+<img 
+    align="left" 
+    alt="Databricks" 
+    title="Databricks"
     width="36px" 
     style="padding-right: 10px;" 
     src="Icones/Databricks.svg"/>
