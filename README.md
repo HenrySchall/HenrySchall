@@ -45,7 +45,7 @@
     title="Stata" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="Icones/Stata.svg"/>
+    src="Icones/Stataicon.svg"/>
     
 <img 
     align="left" 
