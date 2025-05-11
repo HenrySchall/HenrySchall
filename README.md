@@ -30,7 +30,7 @@
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-    
+          
 <img 
     align="left" 
     alt="C++"
@@ -86,6 +86,14 @@
     width="33px" 
     style="padding-right: 5px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="35px" 
+    style="padding-right: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     
 <img 
     align="left" 
