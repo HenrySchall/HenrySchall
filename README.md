@@ -25,14 +25,6 @@
     
 <img 
     align="left" 
-    alt="postgresql" 
-    title="postgresql"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-    
-<img 
-    align="left" 
     alt="C++"
     title="C++" 
     width="35px" 
@@ -86,6 +78,14 @@
     width="33px" 
     style="padding-right: 5px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+
+<img 
+    align="left" 
+    alt="sql" 
+    title="postgresql"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 
 <img 
     align="left" 
