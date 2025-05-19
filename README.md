@@ -95,22 +95,6 @@
     style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="35px"  
-    style="padding-right: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
-          
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="33px" 
-    style="padding-right: 5px;" 
-    src="Icones/Kotlin.svg"/>
-
 <br/>
 <br/>
 
@@ -131,4 +115,7 @@
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=henryschall&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true"      
    />
-          
+
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/> 
+    src="Icones/Kotlin.svg"/>
+
