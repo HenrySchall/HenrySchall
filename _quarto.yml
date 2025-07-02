@@ -3,17 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Henrique Schall Portfolio"
+  title: "Henrique Schall"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - github.qmd
+      - newsletter.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - Cyborg
       - brand
     css: styles.css
     toc: true
