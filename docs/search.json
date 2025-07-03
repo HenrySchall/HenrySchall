@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Senior Data Scientist",
     "section": "",
-    "text": "Hello! I’m Henrique Schall, a Senior Data Science , where I leverage artificial intelligence to combat financial crimes and develop credit risk strategies. With over seven years of experience in the field, I’ve had the opportunity to work across various organizations, ranging from\n\n\n\n\nMachine Learning: SVM, Decision Trees, Random Forest, Naïve Baynes, LightGBM, XGBoost.\nDeep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN.\nFinanceiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC.\nGenAI: LLM, NLP, RAG, MCP, CLIP.\n\n\n\n  \n  \n  \n    \n     Github\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Substack"
+    "text": "Github\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Substack\n  \n\n      \n\n\nHi! I’m Henrique Schall, a expert consultant in Data Science and Business Analytics, focused on develop and validation of static mathematical models for credit risk, economic forecasting and operations research. Always generating value in data-driven businesses."
   },
   {
     "objectID": "about.html",
@@ -32,14 +32,14 @@
     "href": "index.html#academic-journey",
     "title": "Senior Data Scientist",
     "section": "Academic Journey",
-    "text": "Academic Journey\nBrazilian Institute of Capital Markets (IBMEC)\nBachelor of Science (BS), Economics\nUniversity of Michigan Ann Arbor\nMaster of Science (MS), Data Science and Artificial Intelligence"
+    "text": "Academic Journey\n\nBrazilian Institute of Capital Markets (IBMEC)\n\nBachelor of Science (BS), Economics\n\n\n\nUniversity of Michigan Ann Arbor\n\nMaster of Science (MS), Data Science and Artificial Intelligence"
   },
   {
     "objectID": "index.html#professional-journey",
     "href": "index.html#professional-journey",
     "title": "Senior Data Scientist",
     "section": "Professional Journey",
-    "text": "Professional Journey\nRio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
+    "text": "Professional Journey\n\nCognizant\n\nSenior Data Scientist\nData Scientist\n\n\n\nJHSF\n\nBusiness Analyst\n\n\n\nRio Bravo Investimentos\n\nData Scientist\nData Analyst Intern"
   },
   {
     "objectID": "skills.html",
@@ -53,7 +53,7 @@
     "href": "index.html#about-me",
     "title": "Senior Data Scientist",
     "section": "",
-    "text": "Hello! I’m Henrique Schall, a Senior Data Science , where I leverage artificial intelligence to combat financial crimes and develop credit risk strategies. With over seven years of experience in the field, I’ve had the opportunity to work across various organizations, ranging from"
+    "text": "Hi! I’m Henrique Schall, a expert consultant in Data Science and Business Analytics, focused on develop and validation of static mathematical models for credit risk, economic forecasting and operations research. Always generating value in data-driven businesses."
   },
   {
     "objectID": "index.html#professional-journey-1",
@@ -66,8 +66,8 @@
     "objectID": "index.html#skills",
     "href": "index.html#skills",
     "title": "Senior Data Scientist",
-    "section": "",
-    "text": "Machine Learning: SVM, Decision Trees, Random Forest, Naïve Baynes, LightGBM, XGBoost.\nDeep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN.\nFinanceiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC.\nGenAI: LLM, NLP, RAG, MCP, CLIP."
+    "section": "Skills",
+    "text": "Skills\n\nMachine Learning: Naïve Baynes, SVM, Decision Trees, Random Forest, LightGBM, XGBoost.\nDeep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN.\nFinanceiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC.\nGenAI: LLM, NLP, RAG, MCP, CLIP."
   },
   {
     "objectID": "index.html#projects",
@@ -75,5 +75,12 @@
     "title": "Senior Data Scientist",
     "section": "Projects",
     "text": "Projects"
+  },
+  {
+    "objectID": "index.html#main-projects",
+    "href": "index.html#main-projects",
+    "title": "Senior Data Scientist",
+    "section": "Main Projects",
+    "text": "Main Projects\n\nQuant\n\nhttps://github.com/HenrySchall/Quant"
   }
 ]
