@@ -19,7 +19,7 @@ about:
 --- 
 :::{#hero-heading}  
 ## About Me 
-Hi! I'm Henrique Schall, a expert consultant in Data Science and Business Analytics, focused on develop and validation of static mathematical models for credit risk, economic forecasting and operations research. Always generating value in data-driven businesses.
+Hi! I'm Henrique Schall, a consultant in Data Science and Business Analytics, focused on develop and validation of static mathematical models for credit risk, economic forecasting and operations research. Always generating value in data-driven businesses.
 :::
 
 :::{#hero-heading}  
