@@ -28,7 +28,7 @@ Hi! I'm Henrique Schall, a expert consultant in Data Science and Business Analyt
 - Machine Learning: Naïve Baynes, SVM, Decision Trees, Random Forest, LightGBM, XGBoost. 
 - Deep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN. 
 - Financeiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC. 
-- GenAI: LLM, NLP, RAG, MCP, CLIP. 
+- GenAI: LLM, NLP, RAG, MCP. 
 :::
 
 :::{#hero-heading}  

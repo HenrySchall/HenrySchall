@@ -3,7 +3,7 @@
     "path": "C:/Users/henri/OneDrive/Repositórios/HenrySchall/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "186525317",
+    "hash": "983899612",
     "contents": "",
     "dirty": false,
     "created": 1751509657784.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,220",
-        "scrollLine": "8"
+        "cursorPosition": "30,27",
+        "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1751528100,
+    "lastKnownWriteTime": 1751528180,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1751528100739,
+    "last_content_update": 1751528180381,
     "read_only": false,
     "read_only_alternatives": []
 }
