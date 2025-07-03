@@ -1,14 +1,14 @@
 {
-    "id": "C39EBF00",
-    "path": "C:/Users/henri/OneDrive/Repositórios/HenrySchall/github.qmd",
-    "project_path": "github.qmd",
+    "id": "7DC5B090",
+    "path": "C:/Users/henri/OneDrive/Repositórios/HenrySchall/skills.qmd",
+    "project_path": "skills.qmd",
     "type": "quarto_markdown",
-    "hash": "4005427019",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1751447101806.0,
+    "created": 1751507568981.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -19,14 +19,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "36:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1751447107,
+    "lastKnownWriteTime": 1751507932,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1751447107753,
+    "last_content_update": 1751507932554,
     "read_only": false,
     "read_only_alternatives": []
 }

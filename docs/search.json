@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Senior Data Scientist",
     "section": "",
-    "text": "twitter\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present"
+    "text": "Github\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Substack\n  \n\n  \n  \n\n\nBrazilian Institute of Capital Markets (IBMEC)\nBachelor of Science (BS), Economics\nUniversity of Michigan Ann Arbor\nMaster of Science (MS), Data Science and Artificial Intelligence\n\n\n\nRio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
   },
   {
     "objectID": "about.html",
@@ -18,13 +18,34 @@
     "href": "index.html#education",
     "title": "Senior Data Scientist",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "Brazilian Institute of Capital Markets (IBMEC)\nBachelor of Science (BS), Economics\nUniversity of Michigan Ann Arbor\nMaster of Science (MS), Data Science and Artificial Intelligence"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Senior Data Scientist",
     "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present"
+    "text": "Rio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
+  },
+  {
+    "objectID": "index.html#academic-journey",
+    "href": "index.html#academic-journey",
+    "title": "Senior Data Scientist",
+    "section": "",
+    "text": "Brazilian Institute of Capital Markets (IBMEC)\nBachelor of Science (BS), Economics\nUniversity of Michigan Ann Arbor\nMaster of Science (MS), Data Science and Artificial Intelligence"
+  },
+  {
+    "objectID": "index.html#professional-journey",
+    "href": "index.html#professional-journey",
+    "title": "Senior Data Scientist",
+    "section": "",
+    "text": "Rio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Machine Learning: SVM, Decision Trees, Random Forest, Naïve Baynes, LightGBM, XGBoost.\nDeep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN.\nFinanceiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC. GenAI: LLM, NLP, RAG, MCP, CLIP.\nOutros Modelos: Redes Bayesianas, Google Meridian, Dados em Painel.\n:::"
   }
 ]
