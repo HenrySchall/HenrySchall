@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Senior Data Scientist",
     "section": "",
-    "text": "Github\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Substack\n  \n\n  \n  \n\n\nBrazilian Institute of Capital Markets (IBMEC)\nBachelor of Science (BS), Economics\nUniversity of Michigan Ann Arbor\nMaster of Science (MS), Data Science and Artificial Intelligence\n\n\n\nRio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
+    "text": "Hello! I’m Henrique Schall, a Senior Data Science , where I leverage artificial intelligence to combat financial crimes and develop credit risk strategies. With over seven years of experience in the field, I’ve had the opportunity to work across various organizations, ranging from\n\n\n\n\nMachine Learning: SVM, Decision Trees, Random Forest, Naïve Baynes, LightGBM, XGBoost.\nDeep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN.\nFinanceiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC.\nGenAI: LLM, NLP, RAG, MCP, CLIP.\n\n\n\n  \n  \n  \n    \n     Github\n  \n  \n    \n     Linkedin\n  \n  \n    \n     Substack"
   },
   {
     "objectID": "about.html",
@@ -31,15 +31,15 @@
     "objectID": "index.html#academic-journey",
     "href": "index.html#academic-journey",
     "title": "Senior Data Scientist",
-    "section": "",
-    "text": "Brazilian Institute of Capital Markets (IBMEC)\nBachelor of Science (BS), Economics\nUniversity of Michigan Ann Arbor\nMaster of Science (MS), Data Science and Artificial Intelligence"
+    "section": "Academic Journey",
+    "text": "Academic Journey\nBrazilian Institute of Capital Markets (IBMEC)\nBachelor of Science (BS), Economics\nUniversity of Michigan Ann Arbor\nMaster of Science (MS), Data Science and Artificial Intelligence"
   },
   {
     "objectID": "index.html#professional-journey",
     "href": "index.html#professional-journey",
     "title": "Senior Data Scientist",
-    "section": "",
-    "text": "Rio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
+    "section": "Professional Journey",
+    "text": "Professional Journey\nRio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
   },
   {
     "objectID": "skills.html",
@@ -47,5 +47,33 @@
     "title": "Skills",
     "section": "",
     "text": "Machine Learning: SVM, Decision Trees, Random Forest, Naïve Baynes, LightGBM, XGBoost.\nDeep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN.\nFinanceiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC. GenAI: LLM, NLP, RAG, MCP, CLIP.\nOutros Modelos: Redes Bayesianas, Google Meridian, Dados em Painel.\n:::"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Senior Data Scientist",
+    "section": "",
+    "text": "Hello! I’m Henrique Schall, a Senior Data Science , where I leverage artificial intelligence to combat financial crimes and develop credit risk strategies. With over seven years of experience in the field, I’ve had the opportunity to work across various organizations, ranging from"
+  },
+  {
+    "objectID": "index.html#professional-journey-1",
+    "href": "index.html#professional-journey-1",
+    "title": "Senior Data Scientist",
+    "section": "Professional Journey",
+    "text": "Professional Journey\nRio Bravo Investimentos\nData Analyst\nJHSF\nBusiness Analyst\nCognizant\nSenior Data Scientist"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Senior Data Scientist",
+    "section": "",
+    "text": "Machine Learning: SVM, Decision Trees, Random Forest, Naïve Baynes, LightGBM, XGBoost.\nDeep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN.\nFinanceiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC.\nGenAI: LLM, NLP, RAG, MCP, CLIP."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Senior Data Scientist",
+    "section": "Projects",
+    "text": "Projects"
   }
 ]

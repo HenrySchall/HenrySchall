@@ -1,7 +1,7 @@
 {
     "id": "7DC5B090",
-    "path": "C:/Users/henri/OneDrive/Repositórios/HenrySchall/skills.qmd",
-    "project_path": "skills.qmd",
+    "path": "C:/Users/henri/OneDrive/Repositórios/HenrySchall/publications.qmd",
+    "project_path": "publications.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
@@ -19,14 +19,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "36:0"
+        "rmdVisualModeLocation": "48:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1751507932,
+    "lastKnownWriteTime": 1751508925,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1751507932554,
+    "last_content_update": 1751508925,
     "read_only": false,
     "read_only_alternatives": []
 }

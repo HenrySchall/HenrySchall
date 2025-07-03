@@ -2,9 +2,9 @@
 title: "Senior Data Scientist"
 about:
   id: hero-heading
-  template: trestles
+  template: broadside
   image: mypic.png
-  image-width: 20em
+  image-width: 10em
   links:
     - icon: github
       text: Github
@@ -15,18 +15,24 @@ about:
     - icon: substack
       text: Substack
       href: https://henryschall.substack.com/
-      
+
 ---
 :::{#hero-heading}         
+    
+## About Me 
+Hello! I'm Henrique Schall, a Senior Data Science , where I leverage artificial intelligence to combat financial crimes and develop credit risk strategies. With over seven years of experience in the field, I've had the opportunity to work across various organizations, ranging from
                
-## Academic Journey
+## Skills
 
-Brazilian Institute of Capital Markets (IBMEC)          
-Bachelor of Science (BS), Economics
+- Machine Learning: SVM, Decision Trees, Random Forest, Naïve Baynes, LightGBM, XGBoost. 
+- Deep Learning: Perceptron, MLP, CNN, RNN, Transformers, Autoencoders, GANs, GNN. 
+- Financeiros: ARMA, ARIMA, SARIMA, ARCH, GARCH, VAR, VEC. 
+- GenAI: LLM, NLP, RAG, MCP, CLIP. 
 
-University of Michigan Ann Arbor                        
-Master of Science (MS), Data Science and Artificial Intelligence
 
+:::
+
+:::{#hero-heading}  
 ## Professional Journey
 
 Rio Bravo Investimentos                                 
@@ -37,5 +43,24 @@ Business Analyst
 
 Cognizant                                               
 Senior Data Scientist
+
+:::
+
+:::{#hero-heading}  
+
+## Academic Journey
+
+Brazilian Institute of Capital Markets (IBMEC)          
+Bachelor of Science (BS), Economics
+
+University of Michigan Ann Arbor                        
+Master of Science (MS), Data Science and Artificial Intelligence
+
+:::
+
+:::{#hero-heading}  
+
+## Projects
+
 
 :::

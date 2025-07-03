@@ -6,7 +6,9 @@ website:
   title: "Henrique Schall"
   navbar:
     left:
-      - skills.qmd
+      - href: index.qmd
+        text: About
+      - publications.qmd
 
 format:
   html:
