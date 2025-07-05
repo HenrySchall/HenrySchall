@@ -19,7 +19,7 @@ about:
 --- 
 :::{#hero-heading}  
 ## About Me 
-Hi! I'm Henrique Schall, a economist and consultant in Data Science and Business Analytics, focused on development and validation of statistical and mathematical models for credit risk, pricing, revenue management, economic forecasting and operational optimization. Always seeking to generate value through data
+Hi! I'm Henrique Schall, a economist and consultant in Data Science and Business Analytics, focused on development and validation of statistical and mathematical models for credit risk, pricing, revenue management, economic forecasting and operational optimization. Always seeking to generate value through data.
 :::
 
 :::{#hero-heading}  
@@ -49,8 +49,8 @@ Hi! I'm Henrique Schall, a economist and consultant in Data Science and Business
 :::{#hero-heading}  
 ## Academic Journey
 ###### University of Michigan Ann Arbor             
-- Master of Science (MS), Data Science and Artificial Intelligence
+- Master of Science (MS), Data Science and Artificial Intelligence.
 
 ###### Brazilian Institute of Capital Markets (IBMEC)   
-- Bachelor of Science (BS), Economics
+- Bachelor of Science (BS), Economics.
 :::
