@@ -1,0 +1,6 @@
+[1,"==> quarto preview index.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Henrique Schall\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme:\n    - Cyborg\n    - brand\n  title: Senior Data Scientist\n  about:\n    id: hero-heading\n    template: solana\n    image: mypic.png\n    image-width: 22em\n    links:\n      - icon: github\n        text: Github\n        href: https://github.com/HenrySchall\n      - icon: linkedin\n        text: Linkedin\n        href: https://www.linkedin.com/in/henriqueschall/\n      - icon: substack\n        text: Substack\n        href: https://henryschall.substack.com/\n  \n"]
+[1,"Output created: docs\\index.html\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:3594/\n"]
+[1,"GET: /\n"]
+[1,"  /styles.css (404: Not Found)\n"]
