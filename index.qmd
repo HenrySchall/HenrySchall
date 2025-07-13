@@ -19,7 +19,7 @@ about:
 --- 
 :::{#hero-heading}  
 ## About Me 
-Hi! I'm Henrique Schall, an economist with a master's degree in Data Science and Artificial Intelligence, with experience as a Data Scientist and Business Analyst. These experiences were dedicated to the development of statistical and mathematical models for credit risk, pricing, revenue management, economic forecasting and operational optimization. Always seeking to generate value through data manipulation.
+Hi! I'm Henrique Schall, an economist with a master's degree in Data Science and Artificial Intelligence, with experience as a Data Scientist and Business Analyst. These experiences were dedicated to the development of statistical and mathematical models for fraud risk, pricing, revenue management, economic forecasting and operational optimization. Always seeking to generate value through data manipulation.
 :::
 
 :::{#hero-heading}  
