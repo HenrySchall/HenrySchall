@@ -46,7 +46,6 @@ Hi! I'm Henrique Schall, a Data Scientist with a Bachelor of Economics and Maste
 ###### Rio Bravo Investimentos            
 - Risk Analyst
 - Risk Intern 
-
 :::
 
 :::{#hero-heading}  
