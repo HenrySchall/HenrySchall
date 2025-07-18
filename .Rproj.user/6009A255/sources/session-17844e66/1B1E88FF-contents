@@ -4,7 +4,7 @@ about:
   id: hero-heading
   template: solana
   image: mypic.png
-  image-width: 22em
+  image-width: 24em
   links:
     - icon: github
       text: Github
@@ -19,7 +19,7 @@ about:
 --- 
 :::{#hero-heading}  
 ## About Me 
-Hi! I'm Henrique Schall, an economist with a master's degree in Data Science and Artificial Intelligence, with experience as a Data Scientist and Business Analyst. These experiences were dedicated to the development of statistical and mathematical models for fraud risk, pricing, revenue management, economic forecasting and operational optimization. Always seeking to generate value through data manipulation.
+Hi! I'm Henrique Schall, a Data Scientist with a Bachelor of Economics and Master of Business Analytics and Data Science. My experience were dedicated to the development of statistical and mathematical models or financial crime, risk management, product management, economic forecast, process optimization and AI solutions. Always seeking to generate value through data.
 :::
 
 :::{#hero-heading}  
@@ -33,6 +33,9 @@ Hi! I'm Henrique Schall, an economist with a master's degree in Data Science and
 :::{#hero-heading}  
 ## Professional Journey
 
+###### nPLAN
+- Senior Data Scientist 
+
 ###### Cognizant    
 - Senior Data Scientist 
 - Data Scientist
@@ -41,16 +44,18 @@ Hi! I'm Henrique Schall, an economist with a master's degree in Data Science and
 - Business Analyst
 
 ###### Rio Bravo Investimentos            
-- Data Scientist
-- Data Analyst Intern 
+- Risk Analyst
+- Risk Intern 
 
 :::
 
 :::{#hero-heading}  
 ## Academic Journey
-###### University of Michigan Ann Arbor             
-- Master of Science (MS), Data Science and Artificial Intelligence.
+###### IE University           
+- Master of Science (MS), Business Analytics and Data Science
 
 ###### Brazilian Institute of Capital Markets (IBMEC)   
-- Bachelor of Science (BS), Economics.
+- Bachelor of Science (BS), Economics and Accounting
 :::
+
+
