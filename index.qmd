@@ -4,7 +4,7 @@ about:
   id: hero-heading
   template: solana
   image: mypic.png
-  image-width: 25em
+  image-width: 26em
   links:
     - icon: github
       text: Github
